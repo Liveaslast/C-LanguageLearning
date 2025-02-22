@@ -1,0 +1,10 @@
+file:C:\Users\2024r9000p\source\repos\vs新手\不要再报错了\Project1\Project1\C语言进阶.c line = 1599 date:Dec  5 2024 time:19:53:13 i = 0
+file:C:\Users\2024r9000p\source\repos\vs新手\不要再报错了\Project1\Project1\C语言进阶.c line = 1599 date:Dec  5 2024 time:19:53:13 i = 1
+file:C:\Users\2024r9000p\source\repos\vs新手\不要再报错了\Project1\Project1\C语言进阶.c line = 1599 date:Dec  5 2024 time:19:53:13 i = 2
+file:C:\Users\2024r9000p\source\repos\vs新手\不要再报错了\Project1\Project1\C语言进阶.c line = 1599 date:Dec  5 2024 time:19:53:13 i = 3
+file:C:\Users\2024r9000p\source\repos\vs新手\不要再报错了\Project1\Project1\C语言进阶.c line = 1599 date:Dec  5 2024 time:19:53:13 i = 4
+file:C:\Users\2024r9000p\source\repos\vs新手\不要再报错了\Project1\Project1\C语言进阶.c line = 1599 date:Dec  5 2024 time:19:53:13 i = 5
+file:C:\Users\2024r9000p\source\repos\vs新手\不要再报错了\Project1\Project1\C语言进阶.c line = 1599 date:Dec  5 2024 time:19:53:13 i = 6
+file:C:\Users\2024r9000p\source\repos\vs新手\不要再报错了\Project1\Project1\C语言进阶.c line = 1599 date:Dec  5 2024 time:19:53:13 i = 7
+file:C:\Users\2024r9000p\source\repos\vs新手\不要再报错了\Project1\Project1\C语言进阶.c line = 1599 date:Dec  5 2024 time:19:53:13 i = 8
+file:C:\Users\2024r9000p\source\repos\vs新手\不要再报错了\Project1\Project1\C语言进阶.c line = 1599 date:Dec  5 2024 time:19:53:13 i = 9

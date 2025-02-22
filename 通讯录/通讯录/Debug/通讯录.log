@@ -1,0 +1,5 @@
+﻿  contact.c
+C:\Users\2024r9000p\source\repos\通讯录\通讯录\contact.c(61,4): warning C4098: “CheckCapacity”:“void”函数返回值
+C:\Users\2024r9000p\source\repos\通讯录\通讯录\contact.c(68,4): warning C4098: “CheckCapacity”:“void”函数返回值
+C:\Users\2024r9000p\source\repos\通讯录\通讯录\contact.c(71,2): warning C4098: “CheckCapacity”:“void”函数返回值
+  通讯录.vcxproj -> C:\Users\2024r9000p\source\repos\通讯录\Debug\通讯录.exe

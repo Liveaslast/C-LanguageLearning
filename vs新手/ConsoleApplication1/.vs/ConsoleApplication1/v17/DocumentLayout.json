@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2024r9000p\\source\\repos\\vs\u65B0\u624B\\ConsoleApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2024r9000p\\source\\repos\\vs\u65B0\u624B\\ConsoleApplication1\\ConsoleApplication1\\control1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApplication1\\control1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "control1.c",
+              "DocumentMoniker": "C:\\Users\\2024r9000p\\source\\repos\\vs\u65B0\u624B\\ConsoleApplication1\\ConsoleApplication1\\control1.c",
+              "RelativeDocumentMoniker": "ConsoleApplication1\\control1.c",
+              "ToolTip": "C:\\Users\\2024r9000p\\source\\repos\\vs\u65B0\u624B\\ConsoleApplication1\\ConsoleApplication1\\control1.c",
+              "RelativeToolTip": "ConsoleApplication1\\control1.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-14T14:28:23.397Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
